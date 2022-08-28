@@ -1,0 +1,162 @@
+@font-face {
+    font-family:'Roboto';
+    src: url(../font/Roboto-Regular.ttf);
+}
+
+.section1 {
+    background-color: black;
+    color: white;
+    font-family:'Roboto';
+    font-style: normal;
+    font-size: 10px;
+    line-height: 12px;
+    height: 20px;
+    width: 1024px;   
+}
+
+
+h5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 10px;
+    line-height: 12px;
+    font-weight: normal;
+}
+
+
+.section2 {
+    background-color:rgba(240, 168, 62, 1);
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 13px;
+    line-height: 15px;
+    height: 62px;
+    width: 1024px;
+
+}
+
+
+.section3{
+    background-image: url(../img/Img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 409px;
+    width: 1024px;
+}
+
+
+h2{ 
+    background-color: white;
+    font-family: 'Roboto';
+    color: #3C2313;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+
+.descuentos{
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #3C2313;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+
+.comederos{
+    background: #F0A83E;
+    border-radius: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.huella{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+
+
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;  
+    color: #3C2313;
+   }
+
+
+.productos{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px; 
+    color: #666666;
+}
+
+
+.item{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C2313;
+}
+
+
+.precio{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F0A83E;
+}
+
+
+.footer1{
+    background-color: #F0A83E;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 23px;
+    color: #FFFFFF;;
+    width: 1024px;
+    height: 60px;
+}
+
+
+footer{
+    background-color: #3C2313;
+    width: 1024px;
+    height: 284px;
+    color: white;
+}
+
+
+.footer2{
+    background-color: #222222;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;  
+}
